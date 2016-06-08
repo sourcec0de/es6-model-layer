@@ -8,7 +8,7 @@ This is purely for conceptual use.
 - `lib/` contains the base classes and utils
 - `models` is where i've chosen to house example model files
 
-In this cenario there are two tables `users` and `identities`.
+In this scenario there are two tables `users` and `identities`.
 This is an oauth pattern for allowing people to link their auth providers.
 
 I am using this as a way of demonstraighting management of a relationship without
